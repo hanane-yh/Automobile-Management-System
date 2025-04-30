@@ -15,7 +15,7 @@ Interactive API documentation is available via Swagger UI. It can be found at `h
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hanane-yh/4FPA5-72521
+   git clone https://github.com/hanane-yh/Automobile-Management-System.git
    ```
 2. Navigate to the project directory.
 3. Build and start the  Docker containers:
